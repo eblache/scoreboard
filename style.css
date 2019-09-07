@@ -1,0 +1,10 @@
+#teamA {
+  color: blue;
+  border: 3px solid blue;
+  padding: .5rem;
+  }
+#teamB {
+  color: red;
+  border: 3px solid red;
+  padding: .5rem;
+}
